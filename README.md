@@ -1,2 +1,1 @@
-readme info
-testing repo for auto deploy
+Simple auto deploy
